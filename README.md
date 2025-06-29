@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-5E17EB?style=for-the-badge)
+![Email Integration](https://img.shields.io/badge/Email%20Integration-SMTP%20%2F%20API-FF6C37?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 ## GitHub Stats
