@@ -1,6 +1,6 @@
 - 👋 Hi, I’m love yadav
 - 👀 I’m interested in Web Development && Data Structures and Algorithms
-- 🌱 I’m currently learning Development
+- 🌱 I’m currently learning Java Development
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me 
 - ⚡ Fun fact: Just code
