@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=love12yadav&show_icons=true&theme=radical&exclude_repo=repo1,repo2)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=love12yadav&show_icons=true&theme=tokyonight)
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=love12yadav&layout=compact&theme=radical)
