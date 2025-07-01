@@ -49,5 +49,15 @@ You can click the Preview link to take a look at your changes.
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/love_yadav)
 
 
+## 🏆 Achievements
+- 🥇 3★ Rated on CodeChef (1605)
+- 🔥 Solved 460+ DSA problems across platforms
+- 🧠 Built real-time stock notifier using Kafka + WebSocket, Ecom application, Newz application
+- 🧑‍💻 Deployed 3+ full-stack projects to Vercel & Render
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=love12yadav&theme=tokyonight)](https://git.io/streak-stats)
+
+
 
 
