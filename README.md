@@ -54,9 +54,8 @@ You can click the Preview link to take a look at your changes.
 - 🔥 Solved 460+ DSA problems across platforms
 - 🧠 Built real-time stock notifier using Kafka + WebSocket, Ecom application, Newz application
 - 🧑‍💻 Deployed 3+ full-stack projects to Vercel & Render
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=love12yadav&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=love12yadav&theme=dark)](https://git.io/streak-stats)
 
 
 
