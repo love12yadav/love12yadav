@@ -61,6 +61,5 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=love12yadav&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=love12yadav&label=Profile%20views&color=0e75b6&style=flat)
-
-![snake gif](https://github.com/love12yadav/love12yadav/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/love12yadav/love12yadav/blob/output/github-contribution-grid-snake-dark.svg)
 
