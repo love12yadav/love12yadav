@@ -51,7 +51,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Achievements
 - 🥇 3★ Rated on CodeChef (1605)
-- 🔥 Solved 460+ DSA problems across platforms
+- 🥇 Knight on LeetCode(1857)
+- 🔥 Solved 1200+ DSA problems across platforms
 - 🧠 Built real-time stock notifier using Kafka + WebSocket, Ecom application, Newz application
 - 🧑‍💻 Deployed 3+ full-stack projects to Vercel & Render
   
